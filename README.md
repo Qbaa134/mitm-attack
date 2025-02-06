@@ -54,11 +54,11 @@ cd mitm-attack
   
 2️⃣ **Uruchom skrypt MITM**  
 ```bash
-sudo python3 mitm.py <IP_OFIARY> <IP_BRAMY>
+sudo python3 main.py <IP_OFIARY> <IP_BRAMY>
 ```
 📌 *Przykład:*  
 ```bash
-sudo python3 mitm.py 192.168.1.100 192.168.1.1
+sudo python3 main.py 192.168.1.100 192.168.1.1
 ```
 - **192.168.1.100** – IP ofiary  
 - **192.168.1.1** – IP bramy (routera)  
