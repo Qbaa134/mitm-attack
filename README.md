@@ -134,7 +134,5 @@ sudo arp -d <IP_BRAMY>
 📢 **Chcesz dodać nowe funkcje?**  
 🔧 Stwórz **pull request** lub otwórz **issue** na GitHubie! 🚀  
 
-👨‍💻 **Autor:** Qbaa134  
-🔗 **Repozytorium:** (https://)  
-
+👨‍💻 **Autor:** Qbaa134   
 🔥 **Pamiętaj – to tylko do testów i nauki!**
